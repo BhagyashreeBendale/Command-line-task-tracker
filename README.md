@@ -1,4 +1,4 @@
-###📝 Command Line Task Tracker (Python)
+#📝 Command Line Task Tracker (Python)
 
 A simple and interactive command-line task tracker built using core Python concepts.
 This project is ideal for beginners to practice lists, loops, conditionals, and input validation.
